@@ -49,7 +49,7 @@ O projeto encontra-se em estágio intermediário, com as principais funcionalida
 ![Login](login.jpg)
 
 ## 🚫 Página 404 - Not Found  
-![404 Not Found](404.jpg)
+![404 Not Found](https://github.com/Kaio-levi/Participacao_equipe/blob/main/image/404.jpg)
 
 ---
 
