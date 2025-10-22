@@ -30,23 +30,23 @@ O projeto encontra-se em estágio intermediário, com as principais funcionalida
 # 🖼️ Telas do Projeto
 
 ## 🏠 Tela Inicial  
-![Tela Inicial 1](tela_inicial2.jpg)  
-![Tela Inicial 2](tela_inicial.jpg)
+![Tela Inicial 1](https://github.com/Kaio-levi/Participacao_equipe/blob/main/image/tela_inicial2.jpg)  
+![Tela Inicial 2](https://github.com/Kaio-levi/Participacao_equipe/blob/main/image/tela_inicial.jpg)
 
 ## 🛍️ Catálogo  
-![Catálogo](catalogo.jpg)
+![Catálogo](https://github.com/Kaio-levi/Participacao_equipe/blob/main/image/catalogo.jpg)
 
 ## ℹ️ Sobre Nós  
-![Sobre Nós](sobrenos.jpg)
+![Sobre Nós](https://github.com/Kaio-levi/Participacao_equipe/blob/main/image/sobrenos.jpg)
 
 ## 📞 Entre em Contato  
-![Entre em Contato](entrecontato.jpg)
+![Entre em Contato](https://github.com/Kaio-levi/Participacao_equipe/blob/main/image/entrecontato.jpg)
 
 ## 🛒 Carrinho  
-![Carrinho](meucarrinho.jpg)
+![Carrinho](https://github.com/Kaio-levi/Participacao_equipe/blob/main/image/meucarrinho.jpg)
 
 ## 🔐 Página de Login  
-![Login](login.jpg)
+![Login](https://github.com/Kaio-levi/Participacao_equipe/blob/main/image/login.jpg)
 
 ## 🚫 Página 404 - Not Found  
 ![404 Not Found](https://github.com/Kaio-levi/Participacao_equipe/blob/main/image/404.jpg)
